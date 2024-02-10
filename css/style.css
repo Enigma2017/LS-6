@@ -12,6 +12,7 @@ body{
     color: #fff;
     font-family: "Poppins";
     background-color: rgb(65, 59, 59);
+    padding: 20px;
 }
 
 .container-portfolio{
@@ -33,6 +34,7 @@ body{
 
 .portfolio-item1{
     grid-area: 1 / 1 / 2 / 2;
+    background: url('../images/7.jpg') no-repeat center center;
 }
 
 .portfolio-item2{
